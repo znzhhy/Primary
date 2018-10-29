@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="446a5f1e-3f60-4421-9bfb-5145fe9eaa65" name="ssh://ubuntu@139.199.83.126:22/home/ubuntu/.virtualenvs/py3env/bin/python3.5" url="http://139.199.83.126">
+        <fileTransfer host="139.199.83.126" port="22" rootFolder="/home/ubuntu/projects" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
